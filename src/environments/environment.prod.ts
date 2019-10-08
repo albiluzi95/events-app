@@ -1,6 +1,6 @@
 export const environment = {
   production: true,
-  url:'http://localhost:5730/',
+  url:'aluzievents.azureapp.com',
   events:'events/',
   voters:'voters/',
   user: 'user/'
