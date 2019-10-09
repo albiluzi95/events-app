@@ -1,6 +1,6 @@
 export const environment = {
   production: true,
-  url:'aluzievents.azureapp.com',
+  url:'https://aluzievents.azure.com',
   events:'events/',
   voters:'voters/',
   user: 'user/'
