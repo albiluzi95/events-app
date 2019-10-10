@@ -1,6 +1,6 @@
 export const environment = {
   production: true,
-  url:'http://aluzeventsi.somee.com',
+  url:'http://aluzeventsi.somee.com/',
   events:'events/',
   voters:'voters/',
   user: 'user/'
